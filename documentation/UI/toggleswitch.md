@@ -24,11 +24,11 @@ Demo
 
 ![alt text][toggleYesSelection]
 
-[toggleNoSelection]: ../screenshots/toggleYesSelection.png "Demo"
+[toggleYesSelection]: ../screenshots/toggleYesSelection.png "Demo"
 
 
-![alt text][toggleNoSelection]
+![alt text][toggleswitchNoSelection]
 
-[toggleNoSelection]: ../screenshots/toggleNoSelection.png "Demo"
+[toggleswitchNoSelection]: ../screenshots/toggleswitchNoSelection.png "Demo"
 
 *[back] (UI_overview.md)*  
