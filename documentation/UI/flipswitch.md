@@ -18,14 +18,12 @@ UI Components
 		</div>
 		
 Demo
-
-Yes Selection
+              
 ![alt text][Demo]
 
 [Demo]: ../screenshots/FlipswitchYes.png "Demo"
 
 
-NO Selection
 ![alt text][Demo]
 
 [Demo]: ../screenshots/flipswitchNo.png "Demo"
