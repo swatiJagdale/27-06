@@ -8,7 +8,6 @@ UI Components contains following components
 *[accordion] (accordian.md)*  
 *[button] (button.md)*      
 *[flipswitch] (flipswitch.md)*  
-*[font] (font.md)*  
 *[footer] (footer.md)*  
 *[textinput] (textbox .md)*  
 *[header] (header.md)*  
