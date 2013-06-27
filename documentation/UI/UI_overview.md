@@ -5,8 +5,8 @@ UI Components
 --------------------------------
 UI Components contains following components
 
-*[accordion] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/accordian.md)*  
-*[button] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/button.md)*      
+*[accordion] (accordian.md)*  
+*[button] (button.md)*      
 *[flipswitch] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/flipswitch.md)*  
 *[font] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/font.md)*  
 *[footer] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/footer.md)*  
