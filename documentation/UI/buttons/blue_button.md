@@ -15,7 +15,7 @@ Demo
 
 ![alt text][Demo]
 
-[Demo]: ../screenshots/blue_button.png "Demo"
+[Demo]: ../../screenshots/blue_button.png "Demo"
 
 	
 *[back] (UI_overview.md)*  
