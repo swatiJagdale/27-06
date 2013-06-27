@@ -10,7 +10,7 @@ UI Components contains following components
 *[flipswitch] (flipswitch.md)*  
 *[font] (font.md)*  
 *[footer] (footer.md)*  
-*[textinput] (textbox.md)*  
+*[textinput] (textbox .md)*  
 *[header] (header.md)*  
 *[maps] (maps.md)*  
 *[popup] (popup.md)*  
