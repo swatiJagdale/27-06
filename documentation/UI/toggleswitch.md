@@ -17,8 +17,18 @@ UI Componets
 Demo
 
 
-![alt text][Demo]
+![alt text][toggleNoSelection]
 
-[Demo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[toggleNoSelection]: ../screenshots/toggleNoSelection.png "Demo"
+
+
+![alt text][toggleYesSelection]
+
+[toggleNoSelection]: ../screenshots/toggleYesSelection.png "Demo"
+
+
+![alt text][toggleNoSelection]
+
+[toggleNoSelection]: ../screenshots/toggleNoSelection.png "Demo"
 
 *[back] (UI_overview.md)*  
