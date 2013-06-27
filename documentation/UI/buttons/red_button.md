@@ -9,11 +9,12 @@ UI Component
 		
 		<a id='doneBtn' class='button right' data-direction='reverse' data-ajax='true' data-transition='slide'><span>Done</span></a>
 
+Demo
 
 
 ![alt text][Demo]
 
-[Demo]: ../screenshots/red_button.png "Demo"
+[Demo]: ../../screenshots/red_button.png "Demo"
 
 	
-*[back] (../UI_overview.md)*  
+*[back] (../button.md)*  
