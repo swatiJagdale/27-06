@@ -19,13 +19,13 @@ UI Components
 		
 Demo
               
-![alt text][Demo]
+![alt text][FlipswitchYes]
 
-[Demo]: ../screenshots/FlipswitchYes.png "Demo"
+[FlipswitchYes]: ../screenshots/FlipswitchYes.png "Demo"
 
 
-![alt text][Demo]
+![alt text][flipswitchNo]
 
-[Demo]: ../screenshots/flipswitchNo.png "Demo"
+[flipswitchNo]: ../screenshots/flipswitchNo.png "Demo"
 
 *[back] (UI_overview.md)*  
