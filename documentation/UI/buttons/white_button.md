@@ -17,4 +17,4 @@ Demo
 [Demo]: ../../screenshots/white_button.png "Demo"
 
 	
-*[back] (../buttons/button.md)*  
+*[back] (../button.md)*  
