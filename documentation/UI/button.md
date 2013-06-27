@@ -16,9 +16,5 @@ Types Of buttons
 * [White] (buttons/white_button.md)
 * [Call] (buttons/call_button.md)
 
-Demo
-
-
-
 	
 *[back] (UI_overview.md)*  
